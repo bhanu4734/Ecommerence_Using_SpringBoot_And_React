@@ -1,4 +1,4 @@
-# Nexus Frontend Application
+# Frontend Application
 
 A premium, highly interactive frontend for the Nexus E-Commerce platform. Built with a focus on aesthetics, smooth animations, and a seamless user experience.
 

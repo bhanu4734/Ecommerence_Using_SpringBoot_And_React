@@ -18,10 +18,10 @@ public class Category {
     @Column(nullable = false, unique = true)
     private String name;
 
-    @Column
+    @Column(columnDefinition = "TEXT")
     private String description;
 
-    @Column
+    @Column(columnDefinition = "TEXT")
     private String imageUrl;
 
     @OneToMany(mappedBy = "category", cascade = CascadeType.ALL, fetch = FetchType.LAZY)

@@ -1,4 +1,4 @@
-# Nexus E-Commerce Platform
+# E-Commerce Platform
 
 Nexus is a full-stack, premium e-commerce application built with a modern, responsive frontend and a robust, scalable backend. It provides a complete shopping experience for users alongside a comprehensive dashboard for administrators.
 
